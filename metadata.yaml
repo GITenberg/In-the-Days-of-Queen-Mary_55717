@@ -1,0 +1,33 @@
+_repo: In-the-Days-of-Queen-Mary_55717
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stacey, W. S. (Walter S.)
+    aliases:
+    - Stacey, Walter S.
+    - Stacey, W.S.
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '9723'
+    url: http://www.gutenberg.org/2009/agents/9723
+creator:
+  author:
+    agent_name: Crake, E. E. (Edward Ebenezer)
+    alias: Crake, Edward Ebenezer
+    gutenberg_agent_id: '48471'
+    url: http://www.gutenberg.org/2009/agents/48471
+description: ''
+gutenberg_issued: '2017-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mary I, Queen of England, 1516-1558 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: In the Days of Queen Mary
+url: http://www.gutenberg.org/ebooks/55717
